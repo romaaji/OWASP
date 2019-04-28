@@ -1,7 +1,9 @@
-# D4N155
+=================
+D4N155
+=================
 It's a tool of security audit for smart wordlist and Google hacking attack
 
-[Help us](CONTRIBUTING.md)
+.. _a Help us:CONTRIBUTING/
 
 [See some calculations used](https://adasecurity.github.io/D4N155/theories/#operation-of-d4n155)
 
