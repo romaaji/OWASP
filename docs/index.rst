@@ -75,38 +75,6 @@ Manual
                    wordlist
 
 
-
-HARDWARE REQUIREMENTS:
-=====================
-
-CPU
----
-
-
-* Dual Core or Better
-* Native Support to Multi-Thread
-
-MEMORY
-------
-
-
-* 4 GB or More
-
-Dependencies
-------------
-
-..
-
-   Dependencies that will be installed through pip
-
-
-
-* beautifulsoup4==4.6.3
-* google==2.0.1
-* numpy==1.15.4
-* requests==2.20.1
-* mechanicalsoup
-
 :raw-html-m2r:`<h3 align="center">This project are part of Segmentation fault<br/></h3>`
 
 :raw-html-m2r:`<h5 align="center">It's GNU/GPL version 3 Project page: https://github.com/adasecurity/D4N155</h5>`
