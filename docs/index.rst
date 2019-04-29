@@ -50,7 +50,7 @@ Or whithout git
 
 Manual
 ------
-
+.. code-block:: bash
    D4N155: Tool for smart audit security
 
    Usage: bash main <option> <value>
@@ -119,3 +119,28 @@ Dependencies
            <img src="https://jul10l1r4.github.io/assets/segmentation-fault.png" alt="Segmentation fault">
    </p>
 
+
+Contributting
+=============
+
+Thanks for your interest in making D4N155 
+There are mutliple ways to help beyond just writing code:
+
+
+* [Submit bugs and feature requests] with detailed information about your issue or idea.
+* [Help fellow users with open issues] or [help fellow committers test recent pull requests].
+
+Contributing to D4N155
+----------------------
+
+If you want help for undestand the code contact us:
+
+
+* jul10l1r4@disroot.org (Julio Lira)
+* matheusoliveiratux4me@gmail.com (Matheus Oliveira)
+* x4fUz_K39z@tutanota.com (@sophiesch0ll)
+  ## Understand the code
+
+  .. image:: theories/uml.svg
+     :target: https://framindmap.org/c/maps/655325/public
+     :alt: UML at D4N155
