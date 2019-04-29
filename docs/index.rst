@@ -14,7 +14,7 @@ It's a tool of security audit for smart wordlist and Google hacking attack
 `See some calculations used <https://adasecurity.github.io/D4N155/theories/#operation-of-d4n155>`_
 
 Use
-===
+---
 
 Need to:\ `Python3.6 <https://realpython.com/installing-python/>`_\ ,
 `Bash (GNU Bourne-Again SHell) <https://www.gnu.org/software/bash/#download>`_\ , `pip3 <https://pip.pypa.io/en/stable/installing/>`_
@@ -49,7 +49,7 @@ Or whithout git
 
 
 Manual
-======
+------
 
 .. code-block::
 
@@ -80,7 +80,7 @@ Manual
 
 
 HARDWARE REQUIREMENTS:
-======================
+=====================
 
 CPU
 ---
