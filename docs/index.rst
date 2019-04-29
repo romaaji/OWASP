@@ -51,8 +51,6 @@ Or whithout git
 Manual
 ------
 
-.. code-block::
-
    D4N155: Tool for smart audit security
 
    Usage: bash main <option> <value>
