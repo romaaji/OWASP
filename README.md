@@ -8,7 +8,7 @@ It's an information security audit tool that creates intelligent wordlists based
 [See some calculations used](https://adasecurity.github.io/D4N155/theories/#operation-of-d4n155)
 
 # Use
-Need to:[Python3.6](https://realpython.com/installing-python/),
+Need to: [Python3.6](https://realpython.com/installing-python/),
 [Bash (GNU Bourne-Again SHell)](https://www.gnu.org/software/bash/#download)
 
 Optional: [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -76,8 +76,8 @@ bash main
 * requests==2.20.1
 * mechanicalsoup
      
-<h3 align="center">This project are part of Segmentation fault<br/></h3>
-<h5 align="center">It's GNU/GPL version 3 Project page: https://github.com/owasp/D4N155</h5>
+<h3 align="center">This project are part of Sharepunks Computer Collective<br/></h3>
+<h5 align="center">It's GNU/GPL version 3 Project page: https://github.com/OWASP/D4N155</h5>
 <p align="center">
-		<img src="https://jul10l1r4.github.io/assets/segmentation-fault.png" alt="Segmentation fault">
+		<img src="https://libregit.org/sharepunks/media/raw/branch/master/logo_black.png" width=200 alt="Sharepunks">
 </p>
